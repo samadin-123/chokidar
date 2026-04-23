@@ -11,3 +11,4 @@
 /esm
 /*.test.js
 /*.test.mjs
+.polyresearch-node.toml
